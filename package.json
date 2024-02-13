@@ -1,0 +1,12 @@
+{
+  "name": "auto-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "export": "docker-compose exec auto-editor auto-editor hd.mp4  --export premiere"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
