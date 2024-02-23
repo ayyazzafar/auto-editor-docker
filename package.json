@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "export": "docker-compose exec auto-editor auto-editor hd.mp4  --export premiere"
+    "export": "docker-compose exec auto-editor auto-editor abc6.mov  --export final-cut-pro",
+    "export1": " docker-compose exec auto-editor auto-editor abc.mov"
   },
   "keywords": [],
   "author": "",
